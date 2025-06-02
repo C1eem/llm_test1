@@ -1,0 +1,5 @@
+nltk==3.9.1
+ollama==0.5.1
+PyQt6==6.9.0
+pyqt6_sip==13.10.2
+scikit_learn==1.6.1
